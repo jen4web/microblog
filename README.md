@@ -1,3 +1,3 @@
 # microblog
-Backup of https://jen4web.micro.blog/
+Backup of https://learnnocode.dev
 Good times and fun had by all
